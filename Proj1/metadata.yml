@@ -1,0 +1,12 @@
+---
+:id: 266988088
+:submitters:
+- :name: DISHA KUNJADIA
+  :email: u1464153@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-09-13 05:52:00.476706000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-09-12 22:52:00.476706000 Z
+:status: processed
+:score: 83.0
